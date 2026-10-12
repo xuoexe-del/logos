@@ -16,21 +16,15 @@
   <g transform="translate(600, 1050)" text-anchor="middle">
     <!-- Letter X -->
     <path d="M -230,-40 C -200,-40 -190,-10 -170,10 C -150,30 -140,40 -110,40 M -110,-40 C -140,-40 -150,-10 -170,10 C -190,30 -200,40 -230,40" fill="none" stroke="#000000" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
-    
     <!-- Letter u -->
     <path d="M -80,-10 L -80,15 C -80,35 -65,42 -45,42 C -25,42 -10,35 -10,15 L -10,-10 M -10,10 L -10,40" fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-    
     <!-- Letter o -->
     <path d="M 40,15 C 40,-15 65,-25 85,-25 C 105,-25 130,-15 130,15 C 130,45 105,55 85,55 C 65,55 40,45 40,15 Z" fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round"/>
-    
     <!-- Letter e -->
     <path d="M 160,20 L 225,20 C 225,-5 215,-22 195,-22 C 170,-22 160,0 160,15 C 160,40 175,52 200,52 C 218,52 228,45 233,35" fill="none" stroke="#000000" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
-    
     <!-- Letter x -->
     <path d="M 260,-15 C 275,-15 285,0 295,15 C 305,30 310,45 325,45 M 325,-15 C 310,-15 305,0 295,15 C 285,30 275,45 260,45" fill="none" stroke="#000000" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
-    
     <!-- Letter e -->
     <path d="M 355,20 L 420,20 C 420,-5 410,-22 390,-22 C 365,-22 355,0 355,15 C 355,40 370,52 395,52 C 413,52 423,45 428,35" fill="none" stroke="#000000" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 </svg>
-
